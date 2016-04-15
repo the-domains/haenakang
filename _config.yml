@@ -1,0 +1,28 @@
+name: HaenaKang
+favicon: null
+layout_spectrum: 0.631943469401449
+typography_spectrum: 0.04328027321025729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4027493295725435
+  lightness: 0.42273832322098315
+  saturation: 0.9235406268853694
+  rhythmicContrast: 0.5101895744446665
+purpose: []
